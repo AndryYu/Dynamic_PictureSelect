@@ -3,4 +3,10 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="line">#e6e6e6</color>
+    <color name="record_name_color">#444444</color>
+    <color name="record_bed_color">#777777</color>
 </resources>
